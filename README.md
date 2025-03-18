@@ -1,19 +1,19 @@
-Exercício de Programação Orientada a Objetos (POO) com ArrayList<Conta>
+# Exercício de Programação Orientada a Objetos (POO) com ArrayList<Conta>
 
-Título: Gerenciador de Contas Bancárias
+## Título: Gerenciador de Contas Bancárias
 
-Objetivo
-Implementar um sistema de gerenciamento de contas bancárias utilizando Programação Orientada a Objetos (POO) em Java. O sistema deverá permitir o cadastro de múltiplas contas, operações bancárias básicas e a listagem das contas cadastradas. Os alunos devem utilizar a classe ArrayList para armazenar as contas criadas.
+## Objetivo
+### Implementar um sistema de gerenciamento de contas bancárias utilizando Programação Orientada a Objetos (POO) em Java. O sistema deverá permitir o cadastro de múltiplas contas, operações bancárias básicas e a listagem das contas cadastradas. Os alunos devem utilizar a classe ArrayList para armazenar as contas criadas.
 
-Requisitos do Sistema
+### Requisitos do Sistema
 
-O sistema bancário deve ser capaz de:
+#### O sistema bancário deve ser capaz de:
 
-1.Cadastrar uma nova conta
-  o O usuário deverá fornecer as seguintes informações:
-    ▪ Número da conta
-    ▪ Nome da agência
-    ▪ Nome do cliente
+1. **Cadastrar uma nova conta** 
+- O usuário deverá fornecer as seguintes informações:
+    - Número da conta
+    - Nome da agência
+    - Nome do cliente
   o Todas as novas contas iniciam com saldo zerado.
 2.Consultar os dados de uma conta específica
   o O usuário informará o número da conta para exibir os detalhes dessa conta específica.
